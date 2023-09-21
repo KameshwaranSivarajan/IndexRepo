@@ -1,1 +1,1 @@
-Welcome to Document360
+Welcome to Document360|| articleSetting.isGitHubArticle|| articleSetting.isGitHubArticle
